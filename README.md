@@ -1,5 +1,5 @@
 # SameerSweetyFolio
-![SameerSweetyFolio](https://regalosjugueteria.my.canva.site/dafn-c1clvo)
+![SameerSweetyFolio](https://appslosrios-my.sharepoint.com/:i:/g/personal/w1986455_apps_losrios_edu/EeBhos7LFvJMn2cT-wt48MUBsc_ire18bQc8RLSle8E_aA?e=QzxXGe)
 
 This is a portfolio website developed by SameerSweety, a talented individual who worked on this project single-handedly. The portfolio showcases SameerSweety's skills and accomplishments in web development using HTML, CSS, and JavaScript.
 
