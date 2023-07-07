@@ -1,5 +1,5 @@
 # SameerSweetyFolio
-![LandingPage](https://ibb.co/xsGzgyg"LandingPage")
+![LandingPage](portfolio.PNG "LandingPage")
 
 This is a portfolio website developed by SameerSweety, a talented individual who worked on this project single-handedly. The portfolio showcases SameerSweety's skills and accomplishments in web development using HTML, CSS, and JavaScript.
 
