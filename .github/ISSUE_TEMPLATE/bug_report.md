@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: SameerSweetyFolio Bug Report
+about: Identifying and reporting various issues in the SameerSweetyFolio portfolio, including responsive layout problems, broken links, missing images, browser compatibility issues, slow loading times, accessibility concerns, and typography inconsistencies.
 title: 'SameerSweetyFolio Portfolio - Bug Report'
 labels: 'responsive layout, broken links, missing images, browser compatibility, slow loading times, accessibility issues, typography inconsistencies.'
 assignees: 'SameerSweety'
