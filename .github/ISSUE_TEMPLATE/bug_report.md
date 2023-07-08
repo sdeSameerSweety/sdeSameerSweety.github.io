@@ -77,6 +77,6 @@ Please provide any additional information that may assist in resolving the repor
 
 - Project Repository: [GitHub Repository](https://github.com/sdeSameerSweety/SameerSweetyFolio)
 - Netlify Deployment: [Netlify URL](https://sameersweetyfolio.netlify.app/)
-- Contact Email: sameerswain.gse.23@gmail.com
+- Contact Email: sameerswain.gse.23@outlook.com
 
 Thank you for your attention to these matters. If you require any further information or assistance, please feel free to reach out.
