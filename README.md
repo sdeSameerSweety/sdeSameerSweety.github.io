@@ -39,6 +39,6 @@ The project is not licensed and is intended for personal use only.
 
 ## Contact
 
-For any inquiries or feedback, please contact SameerSweety via email at [sameerswain.gse.23@gmail.com](mailto:sameerswain.gse.23@gmail.com).
+For any inquiries or feedback, please contact SameerSweety via email at [sameerswain.gse.23@outlook.com](mailto:sameerswain.gse.23@outlook.com).
 
 Thank you for visiting SameerSweetyFolio!
