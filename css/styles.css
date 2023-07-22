@@ -52,7 +52,6 @@ ul{
 .container{
     max-width: 1100px;
     width: 100%;
-    /* background: red; */
     margin: auto;
 }
 .section .container{
@@ -145,9 +144,11 @@ ul{
     letter-spacing: 2px;
     position: relative;
 }
-.aside .logo a span{
+.aside .logo a span {
     font-family: 'Clicker Script', cursive;
     font-size: 40px;
+    font-weight: 900;
+
 }
 .aside .logo a::before{
     content: '';
@@ -509,62 +510,6 @@ h3.my-profession{
     color: var(--text-black-700);
 }
 
-/* services */
-.service .container{
-    padding-bottom: 40px;
-}
-.service .service-item{
-    margin-bottom: 30px;
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
-}
-.service .service-item .service-item-inner{
-    background-color: var(--bg-black-100);
-    border: 1px solid var(--bg-black-50);
-    border-radius: 10px;
-    padding: 30px 15px;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-.service .service-item .service-item-inner:hover{
-    box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
-}
-.service .service-item .service-item-inner .icon{
-    height: 60px;
-    width: 60px;
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto 30px;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-.service .service-item .service-item-inner .icon .fa{
-    font-size: 40px;
-    line-height: 60px;
-    color: var(--skin-color);
-    transition: all 0.3s ease;
-}
-.service .service-item .service-item-inner:hover .icon{
-    background: var(--skin-color);
-}
-.service .service-item .service-item-inner:hover .icon .fa{
-    font-size: 25px;
-    color: #ffffff;
-}
-.service .service-item .service-item-inner h4{
-    font-size: 18px;
-    margin-bottom: 15px;
-    color: var(--text-black-900);
-    font-weight: 700;
-    text-transform: capitalize;
-}
-.service .service-item .service-item-inner p{
-    font-size: 16px;
-    color: var(--text-black-700);
-    line-height: 25px;
-}
-
-
 /* Portfolio */
 .portfolio .container{
     padding-bottom: 40px;
@@ -596,6 +541,7 @@ h3.my-profession{
 .portfolio .portfolio-item-inner .portfolio-img img{
     width: 100%;
     display: block;
+   
 }
 
 
@@ -678,11 +624,13 @@ h3.my-profession{
     text-transform: capitalize;
     margin: 15px 0 5px;
 }
+
 .contact .contact-info-item p{
-    font-size: 16px;
+    font-size: 0.8rem;
     line-height: 25px;
     color: var(--text-black-700);
     font-weight: 400;
+    
 }
 .contact .contact-info-items{
     flex: 0 0 100%;
@@ -696,8 +644,6 @@ h3.my-profession{
     justify-content: space-evenly;
 }
 .contact .contact-info-items .icon{
-    /* flex: 0 0 25%;
-    max-width: 25%; */
     text-align: center;
     display: inline-block;
 }
@@ -749,8 +695,8 @@ h3.my-profession{
     height: 140px;
 }
 .contact .contact-form .btn{
-    height: 50px;
-    padding: 0 50px;
+    height: 2.1rem;
+    padding: 0 2.1rem;
 }
 .contact .contact-form .btn:hover{
     cursor: pointer;
@@ -819,5 +765,13 @@ h3.my-profession{
         max-width: 100%;
     }
 
+}
+@media (max-width:575px){
+    .service .service-item,
+    .contact .contact-info-item,
+    .portfolio .portfolio-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 }
 
